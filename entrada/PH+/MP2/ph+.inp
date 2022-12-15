@@ -1,0 +1,14 @@
+# avogadro generated ORCA input file 
+# PH+ DUPLETO - FREQ
+# 
+! MP2 cc-pvtz LARGEPRINT  NUMFREQ
+%maxcore 3000
+
+%freq
+    Increment 0.001
+end
+
+* xyz 1 2
+  P   -4.07918187874577      0.44390478568274      0.00000000000000
+  H   -2.67001812125423      0.28143521431726      0.00000000000000
+*

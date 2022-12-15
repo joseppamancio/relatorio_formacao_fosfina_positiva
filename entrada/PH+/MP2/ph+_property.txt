@@ -1,0 +1,157 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:     -340.9427855165
+# -----------------------------------------------------------
+$ MP2_Energies
+   description: The MP2 energies
+   geom. index: 1
+   prop. index: 1
+        Reference Energy:       -340.9427855165
+        Correlation Energy:       -0.0893548737
+        Total MP2 Energy:       -341.0321403902
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 1
+   prop. index: 1
+       Filename                          : ph3+.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.9644116635
+        Electronic Contribution:
+                  0    
+      0      -0.943136
+      1       0.108739
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0       1.320060
+      1      -0.152196
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.376924
+      1      -0.043457
+      2       0.000000
+# -----------------------------------------------------------
+$ MP2_Electric_Properties
+   description: The MP2 Calculated Electric Properties
+   geom. index: 1
+   prop. index: 1
+       Filename                          : ph3+.pmp2ur 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.9604570253
+        Electronic Contribution:
+                  0    
+      0      -0.944681
+      1       0.108917
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0       1.320060
+      1      -0.152196
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.375379
+      1      -0.043279
+      2       0.000000
+# -----------------------------------------------------------
+$ MP2_Electric_Properties
+   description: The MP2 Calculated Electric Properties
+   geom. index: 1
+   prop. index: 2
+       Filename                          : ph3+.pmp2re 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.9151622196
+        Electronic Contribution:
+                  0    
+      0      -0.962384
+      1       0.110958
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0       1.320060
+      1      -0.152196
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.357676
+      1      -0.041238
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 2
+   prop. index: 1
+        SCF Energy:     -340.9427855165
+# -----------------------------------------------------------
+$ MP2_Energies
+   description: The MP2 energies
+   geom. index: 2
+   prop. index: 1
+        Reference Energy:       -340.9427855165
+        Correlation Energy:       -0.0893548737
+        Total MP2 Energy:       -341.0321403902
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 2
+   prop. index: 1
+        Temperature (Kelvin)           :        298.1500000000
+        Pressure (atm)                 :          1.0000000000
+        Total Mass (AMU)               :         31.9820000000
+        Spin Degeneracy                :          2.0000000000
+        Electronic Energy (Hartree)    :       -341.0321403902
+        Translational Energy (Hartree) :          0.0014162714
+        Rotational Energy (Hartree)    :          0.0009441809
+        Vibrational Energy (Hartree)   :          0.0000000738
+        Number of frequencies          :     6      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5     2473.610574
+        Zero Point Energy (Hartree)    :          0.0056352995
+        Inner Energy (Hartree)         :       -341.0241445645
+        Enthalpy (Hartree)             :       -341.0232003555
+        Electronic entropy             :          0.0006544564
+        Rotational entropy             :          0.0039505920
+        Vibrational entropy            :          0.0000000795
+        Translational entropy          :          0.0039505920
+        Entropy                        :          0.0218618249
+        Gibbs Energy (Hartree)         :       -341.0450621804
+        Is Linear                      :                 false
+# -------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+# -------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2 
+    Geometry Index:     1 
+    Coordinates:
+               0 P     -4.079181878746    0.443904785683    0.000000000000
+               1 H     -2.670018121254    0.281435214317    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2 
+    Geometry Index:     2 
+    Coordinates:
+               0 P     -4.079181878746    0.443904785683    0.000000000000
+               1 H     -2.670018121254    0.281435214317    0.000000000000

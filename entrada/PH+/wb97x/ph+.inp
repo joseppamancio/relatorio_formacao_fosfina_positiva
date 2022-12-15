@@ -1,0 +1,11 @@
+# avogadro generated ORCA input file 
+# PH+ DUPLETO - GEOMETRIA
+# 
+! WB97X def2-tzvp OPT FREQ
+%maxcore 3000 
+
+* xyz 1 2
+   P       -4.07437        0.44335        0.00000
+   H       -2.67483        0.28199        0.00000
+*
+

@@ -1,0 +1,11 @@
+# avogadro generated ORCA input file 
+# H2
+# 
+! m062x def2-tzvp OPT FREQ
+%maxcore 3000
+
+* xyz 0 1
+   H       -5.98732        1.70385        0.00000
+   H       -5.27951        1.72039        0.00000
+*
+
